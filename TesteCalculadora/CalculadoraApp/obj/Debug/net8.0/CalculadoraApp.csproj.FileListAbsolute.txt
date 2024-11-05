@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.exe
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.deps.json
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.runtimeconfig.json
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.dll
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.pdb
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.dll
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\refint\CalculadoraApp.dll
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.pdb
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\DioProjects\TesteCalculadora\CalculadoraApp\obj\Debug\net8.0\ref\CalculadoraApp.dll
